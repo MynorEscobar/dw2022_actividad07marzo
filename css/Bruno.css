@@ -1,0 +1,8 @@
+.logos{
+    width: 150px;
+}
+
+body{
+    background: rgb(151,242,78);
+    background: linear-gradient(0deg, rgba(151,242,78,0.05926120448179273) 0%, rgba(221,238,147,1) 100%);
+}
