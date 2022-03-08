@@ -1,0 +1,29 @@
+h1{
+    text-align: center;
+    color: skyblue;
+    border-style: dashed;
+}
+.contenedor{
+    display: grid;
+    grid-template-areas: 
+    'carne'
+    'nombre';
+}
+.carne{
+    grid-area: carne;
+    color: brown;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 35px;
+    font-style: oblique;
+    background-color: aquamarine;
+    text-align: center;
+}
+.nombre{
+    grid-area: nombre;
+    color: brown;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 35px;
+    font-style: oblique;
+    background-color: aquamarine;
+    text-align: center;
+}
