@@ -1,0 +1,38 @@
+.caja{
+    width: 1300px;
+    height: 100px;
+    background: rgb(160, 244, 247);
+    margin: auto;
+}
+.titulo{
+    text-align: center;
+    
+}
+strong{
+    font-weight: bold;
+    font-size: 35px;
+}
+.item-1{
+    float: left;
+    border: 2px solid black;
+    width: 15%;
+    text-align: center;
+}
+.item-2{
+    float: left;
+    border: 2px solid black;
+    width: 30%;
+    text-align: center;
+}
+
+.caja2{
+    width: 1300px;
+    height: 100px;
+    margin: auto;
+}
+.imagen1{
+    float: left;
+}
+.imagen2{
+    float: right;
+}
