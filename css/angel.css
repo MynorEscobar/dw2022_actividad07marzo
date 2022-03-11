@@ -1,0 +1,27 @@
+.logos{
+    width: 100px;
+}
+
+body{
+    background: rgb(151,242,78);
+    background: radial-gradient(circle, rgba(151,242,78,0.05926120448179273) 0%, rgba(221,238,147,1) 100%);
+}
+
+.titulo{
+    text-align: center;
+}
+
+.datos{
+    border: 1px solid black;
+    font-size: 30px;
+}
+
+.cont-img{
+    width: 100%;
+    text-align: center;
+}
+
+footer a{
+    font-size: 40px;
+}
+
